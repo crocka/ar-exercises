@@ -10,3 +10,4 @@ puts "Exercise 7"
 puts "----------"
 
 # Your code goes here ...
+store = Store.new(name = "Hong Kong")
